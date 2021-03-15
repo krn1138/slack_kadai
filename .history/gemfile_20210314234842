@@ -1,0 +1,2 @@
+gem install slack-notify
+gem install clockwork
